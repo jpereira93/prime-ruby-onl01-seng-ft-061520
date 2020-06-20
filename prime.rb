@@ -7,4 +7,3 @@
     n % x == 0
   end
   end
-ende!
