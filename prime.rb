@@ -7,3 +7,4 @@ if n <= 1
     n % x == 0
   end
   end
+end
